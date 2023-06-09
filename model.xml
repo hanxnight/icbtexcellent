@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<excq>
+    <q>
+        <t>Soal Teks</t>
+        <opt>Option 1</opt>
+        <opt>Option 2</opt>
+        <opt>Option 3</opt>
+        <opt>Option 4</opt>
+    </q>
+    <q>
+        <img src="https://avatars.githubusercontent.com/u/75055016?v=4" width="100"/>
+        <t>Soal bergambar</t>
+        <opt>Option 1</opt>
+        <opt>Option 2</opt>
+        <opt>Option 3</opt>
+        <opt>Option 4</opt>
+    </q>
+</excq>
